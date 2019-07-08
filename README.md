@@ -8,6 +8,7 @@ implementation 'com.jakewharton:butterknife:10.0.0'
 annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
 
 for design of stepper, add below lines to your xml file
+
   <com.stepstone.stepper.StepperLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
